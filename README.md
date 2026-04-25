@@ -350,8 +350,8 @@ other external software.
 |---|---|
 | Project | CUDE |
 | Full Name | Clustered Utility for Deep Embedding Rearrangement |
-| Maintainer | Your Name / Your Team |
-| Contact | your_email@example.com |
+| Maintainer | wenxi |
+| Contact | dmp753@ku.dk |
 | License | MIT License |
 
 ---
